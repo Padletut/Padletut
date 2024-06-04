@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a passionate front-end developer based in Norw
 ## About Me
 
 - 🌍 Based in Norway
-- 🔭 Currently working on various front-end projects
 - 🌱 Learning continuously to stay at the forefront of web development trends and technologies
 - 💬 Ask me about HTML, CSS, JavaScript, and APIs
 - 📫 How to reach me: undefined

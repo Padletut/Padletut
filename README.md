@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer based in Norw
 Feel free to reach out if you have any questions or just want to connect!
 
 - **Email**: undefined
-- **LinkedIn**: [linkedin.com/in/robert-nilsen](https://www.linkedin.com/in/robert-nilsen-46037b1b9/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3BAP4Ue9PESpGHpn92dm7eAw%3D%3D)
+- **LinkedIn**: [linkedin.com/in/robert-bnilsen](www.linkedin.com/in/robert-bnilsen)
 - **Portfolio**: [Check out my portfolio for more projects and details](https://portfolio.com)
 
 ## GitHub Stats

@@ -22,7 +22,7 @@ Feel free to reach out if you have any questions or just want to connect!
 
 - **Email**: undefined
 - **LinkedIn**: <a href="https://www.linkedin.com/in/robert-bnilsen" target="_blank">linkedin.com/in/robert-bnilsen</a>
-- **Portfolio**: [Check out my portfolio for more projects and details](https://portfolio.com)
+- **Portfolio**: <a href="https://www.mittportfolio.com" target="_blank">Check out my portfolio for more projects and details</a>
 
 ## GitHub Stats
 

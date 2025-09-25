@@ -28,7 +28,7 @@ Feel free to reach out if you have any questions or just want to connect!
 
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=padletut&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=padletut&layout=compact&theme=dark&hide=C++,Starlark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=padletut&layout=compact&theme=dark&hide=C%2B%2B,Starlark)
 
 ---
 

@@ -10,7 +10,7 @@ I'm a Front-End Developer from Norway who recently completed a Front-End Develop
 * 🎓 Recently completed a Front-End Development program
 * 🌱 Always learning and exploring new technologies
 * 💻 Interested in front-end development, full-stack applications, and software engineering
-* 💬 Ask me about HTML, CSS, JavaScript, React, Next.js, and APIs
+* 💬 Ask me about HTML, CSS, JavaScript, and React
 
 ## Technical Skills
 
